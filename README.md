@@ -1,6 +1,8 @@
 # HABL-Game
+<p>
+  🌐 https://hablfonar.netlify.app/
+</p>
 
-🌐 https://hablfonar.netlify.app/
 <p>
   🌐 https://hablgame.nicepage.io/
 </p>
